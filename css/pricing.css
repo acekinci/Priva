@@ -1,0 +1,221 @@
+  /* Header */
+  .header {
+    width: 100%;
+    padding-top: 20px;
+    height: auto;
+    background-color: #ffffff;
+    margin-bottom: 132px;
+  }
+  .header-items {
+    max-width: 1166px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px;
+  }
+  .navbar a {
+    margin-right: 46px;
+    color: #3b3a40;
+  }
+  .header-right a {
+    margin-right: 34px;
+    color: #3b3a40;
+  }
+  .header-right button {
+    font-weight: bold;
+    max-width: 125px;
+    height: 35px;
+    padding: 5px;
+    color: #3b3a40;
+    background-color: #ffffff;
+    border: none;
+    box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+  }
+  /* Header End */
+  
+  /* Pricing */
+ .bottom-p{
+     margin-bottom: 200px !important;
+ }
+  /* Pricing End */
+  
+  /* Decide */
+  .decide{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+  }
+  .main-decide{
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+  }
+  .header-decide{
+    display: flex;
+  }
+  .header-right-decide{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.4px;
+    color: #8E8C95;
+  }
+  .top-decide{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 55px;
+    letter-spacing: 0.8px;
+    color: #000000;
+    margin: 24px 0 54px 0;
+  }
+  .box-top-decide{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.3375px;
+    color: #3B3A40;
+  }
+  .yellow-box-mid-decide{
+    height: 4px;
+    max-width: 358px;
+    border-radius: 3px;    
+    background: #FFEDB6; 
+    margin: 12px 0 16px 0;
+  }
+  .bottom-box-decide{
+    width: 348px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.24px;
+    color: #64626A;
+  }
+  .box-bottom-decide{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.24px;
+    color: #64626A;
+  }
+  .box-bottom-decide-top-p{
+      margin-bottom: 20px !important;
+  }
+  .bottom-decide {
+      display: flex;
+      margin-bottom: 200px;
+  }
+  .bottom-box-decide{
+      margin-right: 32px;
+  }
+  .blue-box-decide{
+      background-color: #D1E8FF;
+  }
+  .purple-box-decide{
+    background-color: #5B45E0;
+}
+  /* Decide End */
+  
+  /* Contact */
+ .contact{
+    width: 100%;
+    display: flex;
+ }
+ .blue-box-contact{
+    height: 295px;
+    width: 295px;
+    border-radius: 50%;
+    background-color: #ebf5ff;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: relative;
+    left: -20px;
+}
+.blue-box-contact img{
+    position: relative;
+    top: 90px;
+    left: 20px;
+}
+.mid-contact{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+.mid-contact-p-1{
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  letter-spacing: 0.3px;
+  color: #64626A;
+}
+.mid-contact-p-2{
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 55px;
+  text-align: center;
+  letter-spacing: 0.8px;
+  color: #000000;
+  margin: 16px 0 54px 0 !important;
+}
+.contact-button{
+  height: 60px;
+  width: 170px;
+  border-radius: 8px;
+  background-color: #5B45E0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contact-button p{
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 18px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #FFFFFF;
+}
+.right-contact{
+    width: 25%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+}
+.yellow-box-contact{
+  position: relative;
+  height: 170px;
+  width: 170px;
+  background-color: #FFEDB6;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+.right-contact img{
+    position:  absolute;
+}
+.right-contact-img-2{
+    position: relative !important;
+    top: -15px;
+    right: 200px;
+}
+  /* Contact End */
+
+  /* Footer */
+  .footer{
+      flex-direction: column;
+      margin-top: 100px;
+  }
+  /* Footer End */

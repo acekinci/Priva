@@ -1,0 +1,117 @@
+/* Header */
+.header{
+    height: 1000px;
+    background-color: #D1E8FF;
+}
+.header-bottom-c{
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 55px;
+  text-align: center;
+  letter-spacing: 0.8px;
+  color: #232E69;
+  margin: 132px 0 126px 0;
+}
+/* Header End */
+
+/* Mid */
+.customers-mid{
+    width: 100%;
+    background-color: #FFF;
+    border-radius: 48px 48px 0px 0px;
+    height: 2545px;
+    display: flex;
+    -webkit-border-radius: 48px 48px 0px 0px;
+    -moz-border-radius: 48px 48px 0px 0px;
+    -ms-border-radius: 48px 48px 0px 0px;
+    -o-border-radius: 48px 48px 0px 0px;
+}
+.main-c-mid{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.c-mid-top-top{
+    margin: 100px 0 0 0;
+}
+.mid-left-t{
+    max-width: 943px !important;
+    margin: 0 46px 48px 46px;
+}
+.left-mid-t{
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 42px;
+  letter-spacing: 0.533333px;
+  color: #000000;
+}
+.c-mid-top-top{
+    display: flex;
+    align-items: center;
+}
+.c-mid-top-top-bottom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.c-mid-top-top-bottom img{
+    margin-right: 92px;
+}
+.c-mid-bottom-header{
+  margin: 100px 0 51px 0;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 55px;
+  text-align: center;
+  letter-spacing: 0.8px;
+  color: #000000;
+}
+.c-mid-bottom-header-p{
+  margin-bottom: 9px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #5B45E0;
+}
+.mid-box-c{
+  background: #FFFFFF;
+  border: 1px solid #D1D0D6;
+  padding: 24px;
+  border-radius: 12px;
+}
+.mid-box-c-top{
+  display: flex;
+  justify-content: space-between;
+}
+.mid-box-c-top-left{
+    display: flex;
+}
+.mid-box-c-mid{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0.266667px;
+  margin: 16px 0 12px 0;
+}
+.mid-box-c-bottom{
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.2px;
+  color: #8E8C95;
+}
+.mid-box-c-top-left-right-p{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #3B3A40;
+    margin-bottom: 4px;
+}
+.mid-box-c-top-left-right{
+    margin: 0 0 0 12px;
+}
+/* Mid End */
