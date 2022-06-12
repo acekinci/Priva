@@ -1,2 +1,3 @@
 # Priva
- Priva-responsive
+ 
+İş mülakatında bana verilen Figma tasarımını koda döktüğüm bir responsive website.
